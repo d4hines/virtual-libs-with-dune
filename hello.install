@@ -1,0 +1,8 @@
+lib: [
+  "/home/d4hines/repos/virtual-libs-with-dune/_esy/default/store/b/hello-c657e52c/install/default/lib/hello/META"
+  "/home/d4hines/repos/virtual-libs-with-dune/_esy/default/store/b/hello-c657e52c/install/default/lib/hello/dune-package"
+  "/home/d4hines/repos/virtual-libs-with-dune/_esy/default/store/b/hello-c657e52c/install/default/lib/hello/opam"
+]
+bin: [
+  "/home/d4hines/repos/virtual-libs-with-dune/_esy/default/store/b/hello-c657e52c/install/default/bin/hello"
+]

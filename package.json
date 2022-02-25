@@ -1,0 +1,10 @@
+{
+    "name": "hello",
+    "esy": {
+        "build": "dune build -p #{self.name}"
+    },
+    "dependencies": {
+        "@opam/dune": "*",
+        "@opam/ocaml-lsp-server": "*"
+    }
+}
