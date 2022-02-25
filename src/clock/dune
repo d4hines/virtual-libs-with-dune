@@ -1,0 +1,4 @@
+(library
+ (name clock)
+ ;; clock.mli must be present, but clock.ml must not be
+ (virtual_modules clock))

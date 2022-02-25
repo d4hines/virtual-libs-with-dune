@@ -1,0 +1,4 @@
+(library
+ (name clock_unix)
+ ;; clock.ml must be present, but clock.mli must not be
+ (implements clock))

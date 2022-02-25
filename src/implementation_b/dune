@@ -1,3 +1,0 @@
-(library
- (name implementation_a)
- (implements hello))
