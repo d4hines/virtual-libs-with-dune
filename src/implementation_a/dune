@@ -1,0 +1,3 @@
+(library
+ (name implementation_b)
+ (implements hello))
